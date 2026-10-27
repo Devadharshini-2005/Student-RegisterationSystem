@@ -16,3 +16,7 @@ A simple C# project for practising student registration and Git version control.
 
 ## Purpose
 This project is used to learn Git commands, commits, GitHub repositories, and collaboration workflows.
+
+## Planned Feature: Student Search
+
+The application will support searching for students by their name.
